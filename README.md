@@ -63,9 +63,6 @@ The goal of this project is to create a digital asset that represents my academi
 
 ### Project Structure
 
-<details>
-<summary>Click to expand folder tree</summary>
-
 ```plaintext
 PROTFO.LIO/
 ├── 📁 dist/                  # Production build
