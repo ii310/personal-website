@@ -9,6 +9,9 @@
 The goal of this project is to create a digital asset that represents my academic interests, personal projects, and creative explorations in the field of motion simulation in a 3D, interactive, dynamic, and technical form, as a solo software project from scratch through its entire lifecycle; from ideation and visual prototyping to frontend development, version control, and live deployment.
 
 
+
+
+
 ---
 
 ## Live Deployment
